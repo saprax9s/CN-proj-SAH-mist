@@ -1,0 +1,1 @@
+-> make 2 empty folders one called "input" to dump your input files and "output" to recive the reconstructed files
